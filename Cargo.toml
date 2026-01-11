@@ -1,0 +1,44 @@
+[workspace]
+members = [
+    "lobera-commons",
+    "lobera-data",
+    "lobera-game-msg",
+    "lobera-game-msg-derive",
+    "lobera-game-server",
+    "lobera-ivproto",
+    "lobera-ivproto-derive",
+    "lobera-sdk-server",
+]
+resolver = "2"
+
+[workspace.package]
+version = "1.0.0"
+edition = "2024"
+
+[workspace.dependencies]
+base64 = "0.22"
+bytes = "1"
+byteorder = "1.5"
+flate2 = "1.0"
+
+anyhow = "1"
+log = "0.4"
+env_logger = "0.11"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+toml = "0.8"
+tokio = { version = "1", features = ["full"] }
+
+lazy_static = "1.4"
+inventory = "0.3.21"
+
+proc-macro2 = "1.0"
+quote = "1.0.43"
+syn = { version = "2.0.114", features = ["full"] }
+
+lobera-commons = { path = "lobera-commons" }
+lobera-data = { path = "lobera-data" }
+lobera-ivproto = { path = "lobera-ivproto" }
+lobera-ivproto-derive = { path = "lobera-ivproto-derive" }
+lobera-game-msg = { path = "lobera-game-msg" }
+lobera-game-msg-derive = { path = "lobera-game-msg-derive" }

@@ -1,0 +1,21 @@
+[package]
+name = "lobera-sdk-server"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+base64.workspace = true
+bytes.workspace = true
+flate2.workspace = true
+anyhow.workspace = true
+serde.workspace = true
+serde_json.workspace = true
+tokio.workspace = true
+log.workspace = true
+env_logger.workspace = true
+toml.workspace = true
+lazy_static.workspace = true
+lobera-commons.workspace = true
+
+axum = { version = "0.7", features = ["macros"] }
+tower-http = { version = "0.5", features = ["fs", "trace"] }

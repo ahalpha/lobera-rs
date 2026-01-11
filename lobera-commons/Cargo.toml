@@ -1,0 +1,15 @@
+[package]
+name = "lobera-commons"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+base64.workspace = true
+flate2.workspace = true
+serde.workspace = true
+serde_json.workspace = true
+
+md-5 = "0.10"
+aes = "0.8"
+cbc = "0.1"
+hex = "0.4"

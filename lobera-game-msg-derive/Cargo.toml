@@ -1,0 +1,13 @@
+[package]
+name = "lobera-game-msg-derive"
+version.workspace = true
+edition.workspace = true
+
+[lib]
+proc-macro = true
+
+[dependencies]
+inventory.workspace = true
+proc-macro2.workspace = true
+quote.workspace = true
+syn.workspace = true

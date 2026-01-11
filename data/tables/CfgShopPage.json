@@ -1,0 +1,712 @@
+[
+  {
+    "tabPage": {
+      "1": 1,
+      "2": 1
+    },
+    "key": 1,
+    "nDefault": 1,
+    "nameID": 18101,
+    "topGroup": 2,
+    "sName": "卡蒂雅推荐",
+    "goldInfo": {
+      "1": {
+        "1": 10002,
+        "2": 140001
+      }
+    },
+    "id": 1,
+    "bg": "bg_27",
+    "nStartTime": 0,
+    "commodityType": 3,
+    "icon": "btn_01_01",
+    "nEndTime": 0,
+    "showType": 1,
+    "sort": 1
+  },
+  {
+    "commodityType": 1,
+    "key": 2,
+    "nameID": 18018,
+    "tabPage": {},
+    "goldInfo": {
+      "1": {
+        "1": 10002
+      }
+    },
+    "id": 2,
+    "bg": "bg_29",
+    "nStartTime": 0,
+    "sName": "充值",
+    "icon": "btn_03_01",
+    "nEndTime": 0,
+    "showType": 5,
+    "sort": 2
+  },
+  {
+    "commodityType": 1,
+    "tabPage": {
+      "1": 3,
+      "2": 3,
+      "3": 3,
+      "4": 3,
+      "5": 3,
+      "6": 3
+    },
+    "key": 3,
+    "nEndTime": 0,
+    "nameID": 18017,
+    "checkNew": 1,
+    "sName": "礼包",
+    "goldInfo": {
+      "1": {
+        "1": 10002,
+        "2": 140001
+      }
+    },
+    "id": 3,
+    "bg": "bg_28",
+    "storeVer": 1,
+    "sort": 3,
+    "icon": "btn_04_01",
+    "showType": 2,
+    "topGroup": 3,
+    "nStartTime": 0
+  },
+  {
+    "commodityType": 1,
+    "tabPage": {},
+    "key": 4,
+    "sort": 6,
+    "nameID": 18052,
+    "tips": 15119,
+    "sName": "时装商店",
+    "goldInfo": {
+      "1": {
+        "1": 10002,
+        "2": 140001
+      }
+    },
+    "id": 4,
+    "bg": "bg_28",
+    "storeVer": 8,
+    "checkNew": 1,
+    "icon": "btn_07_01",
+    "nEndTime": 0,
+    "showType": 6,
+    "nStartTime": 0
+  },
+  {
+    "commodityType": 1,
+    "key": 4001,
+    "isHide": 1,
+    "nameID": 65023,
+    "tabPage": {},
+    "goldInfo": {
+      "1": {
+        "1": 10407
+      }
+    },
+    "id": 4001,
+    "bg": "bg_28",
+    "nStartTime": 0,
+    "sName": "角斗兑换",
+    "icon": "btn_07_01",
+    "nEndTime": 0,
+    "showType": 1,
+    "sort": 17
+  },
+  {
+    "commodityType": 1,
+    "key": 902,
+    "isHide": 1,
+    "nameID": 37023,
+    "tabPage": {},
+    "goldInfo": {
+      "1": {
+        "1": 10014
+      }
+    },
+    "id": 902,
+    "bg": "bg_28",
+    "nStartTime": 0,
+    "sName": "数据商店",
+    "icon": "btn_07_01",
+    "nEndTime": 0,
+    "showType": 1,
+    "sort": 9
+  },
+  {
+    "commodityType": 1,
+    "key": 903,
+    "isHide": 1,
+    "nameID": 37024,
+    "tabPage": {},
+    "goldInfo": {
+      "1": {
+        "1": 10042
+      }
+    },
+    "id": 903,
+    "bg": "bg_28",
+    "nStartTime": 0,
+    "sName": "荣誉商店",
+    "icon": "btn_07_01",
+    "nEndTime": 0,
+    "showType": 1,
+    "sort": 10
+  },
+  {
+    "commodityType": 2,
+    "key": 904,
+    "isHide": 1,
+    "nameID": 18201,
+    "tabPage": {},
+    "goldInfo": {
+      "1": {
+        "1": 10010
+      }
+    },
+    "id": 904,
+    "bg": "bg_28",
+    "nStartTime": 0,
+    "sName": "演习兑换",
+    "icon": "btn_05_01",
+    "nEndTime": 0,
+    "showType": 1,
+    "sort": 11
+  },
+  {
+    "commodityType": 1,
+    "key": 905,
+    "isHide": 1,
+    "nameID": 18098,
+    "tabPage": {},
+    "goldInfo": {
+      "1": {
+        "1": 10016
+      }
+    },
+    "id": 905,
+    "bg": "bg_28",
+    "nStartTime": 0,
+    "sName": "妄家商店",
+    "icon": "btn_07_01",
+    "nEndTime": 0,
+    "showType": 1,
+    "sort": 12
+  },
+  {
+    "commodityType": 1,
+    "key": 906,
+    "isHide": 1,
+    "nameID": 18110,
+    "tabPage": {},
+    "goldInfo": {
+      "1": {
+        "1": 10101
+      }
+    },
+    "id": 906,
+    "bg": "bg_28",
+    "nStartTime": 0,
+    "sName": "活动商店",
+    "icon": "btn_07_01",
+    "nEndTime": 0,
+    "showType": 1,
+    "sort": 13
+  },
+  {
+    "commodityType": 2,
+    "key": 101,
+    "nameID": 18019,
+    "tabPage": {},
+    "goldInfo": {
+      "1": {
+        "1": 10001,
+        "2": 140014
+      }
+    },
+    "id": 101,
+    "bg": "bg_30",
+    "nStartTime": 0,
+    "sName": "限时贸易所",
+    "icon": "btn_02_01",
+    "nEndTime": 0,
+    "showType": 1,
+    "sort": 4
+  },
+  {
+    "commodityType": 1,
+    "key": 102,
+    "nameID": 18025,
+    "checkNew": 1,
+    "tabPage": {
+      "1": 102,
+      "2": 102,
+      "3": 102,
+      "4": 102,
+      "5": 102,
+      "6": 102,
+      "7": 102,
+      "8": 102
+    },
+    "showType": 1,
+    "id": 102,
+    "bg": "bg_30",
+    "sName": "万物贸易所",
+    "nStartTime": 0,
+    "icon": "btn_06_01",
+    "nEndTime": 0,
+    "topGroup": 1,
+    "sort": 5
+  },
+  {
+    "commodityType": 1,
+    "key": 103,
+    "nameID": 18020,
+    "tabPage": {},
+    "goldInfo": {
+      "1": {
+        "1": 10002,
+        "2": 140001
+      },
+      "2": {
+        "1": 10013,
+        "2": 140012
+      }
+    },
+    "id": 103,
+    "bg": "bg_30",
+    "nStartTime": 0,
+    "sName": "家具商店",
+    "icon": "btn_08_01",
+    "nEndTime": 0,
+    "showType": 1,
+    "sort": 7
+  },
+  {
+    "commodityType": 1,
+    "key": 2024001,
+    "isHide": 1,
+    "nameID": 65023,
+    "tabPage": {},
+    "goldInfo": {
+      "1": {
+        "1": 10002,
+        "2": 140001
+      }
+    },
+    "id": 2024001,
+    "bg": "bg_28",
+    "nStartTime": 0,
+    "sName": "爱相随（乌琳）",
+    "icon": "btn_07_01",
+    "nEndTime": 0,
+    "showType": 1,
+    "sort": 29
+  },
+  {
+    "commodityType": 1,
+    "key": 911,
+    "isHide": 1,
+    "nameID": 51004,
+    "tabPage": {},
+    "goldInfo": {
+      "1": {
+        "1": 10035
+      }
+    },
+    "id": 911,
+    "bg": "bg_28",
+    "nStartTime": 0,
+    "sName": "奇珍馈赠",
+    "icon": "btn_07_01",
+    "nEndTime": 0,
+    "showType": 1,
+    "sort": 18
+  },
+  {
+    "commodityType": 1,
+    "key": 912,
+    "isHide": 1,
+    "nameID": 51004,
+    "tabPage": {},
+    "goldInfo": {
+      "1": {
+        "1": 10035
+      }
+    },
+    "id": 912,
+    "bg": "bg_28",
+    "nStartTime": 0,
+    "sName": "奇谭入场卷",
+    "icon": "btn_07_01",
+    "nEndTime": 0,
+    "showType": 1,
+    "sort": 19
+  },
+  {
+    "commodityType": 1,
+    "key": 913,
+    "isHide": 1,
+    "nameID": 51004,
+    "tabPage": {},
+    "goldInfo": {
+      "1": {
+        "1": 10035
+      }
+    },
+    "id": 913,
+    "bg": "bg_28",
+    "nStartTime": 0,
+    "sName": "冬日入场卷",
+    "icon": "btn_07_01",
+    "nEndTime": 0,
+    "showType": 1,
+    "sort": 20
+  },
+  {
+    "commodityType": 1,
+    "key": 1001,
+    "isHide": 1,
+    "nameID": 18201,
+    "tabPage": {},
+    "goldInfo": {
+      "1": {
+        "1": 10002
+      }
+    },
+    "id": 1001,
+    "bg": "bg_28",
+    "nStartTime": 0,
+    "sName": "粲晶投资（特殊）",
+    "icon": "btn_05_01",
+    "nEndTime": 0,
+    "showType": 1,
+    "sort": 12
+  },
+  {
+    "commodityType": 1,
+    "key": 910,
+    "isHide": 1,
+    "nameID": 51004,
+    "tabPage": {},
+    "goldInfo": {
+      "1": {
+        "1": 10035
+      }
+    },
+    "id": 910,
+    "bg": "bg_28",
+    "nStartTime": 0,
+    "sName": "奇珍馈赠",
+    "icon": "btn_07_01",
+    "nEndTime": 0,
+    "showType": 1,
+    "sort": 17
+  },
+  {
+    "commodityType": 1,
+    "key": 2001,
+    "isHide": 1,
+    "nameID": 18201,
+    "tabPage": {},
+    "goldInfo": {
+      "1": {
+        "1": 10401
+      }
+    },
+    "id": 2001,
+    "bg": "bg_28",
+    "nStartTime": 0,
+    "sName": "兑换活动（特殊）",
+    "icon": "btn_05_01",
+    "nEndTime": 0,
+    "showType": 1,
+    "sort": 15
+  },
+  {
+    "commodityType": 1,
+    "key": 6001,
+    "isHide": 1,
+    "nameID": 77037,
+    "tabPage": {},
+    "goldInfo": {
+      "1": {
+        "1": 10502
+      }
+    },
+    "id": 6001,
+    "bg": "bg_28",
+    "nStartTime": 0,
+    "sName": "沙盒商店",
+    "icon": "btn_07_01",
+    "nEndTime": 0,
+    "showType": 1,
+    "sort": 29
+  },
+  {
+    "commodityType": 1,
+    "key": 10001,
+    "isHide": 1,
+    "nameID": 160003,
+    "tabPage": {},
+    "goldInfo": {
+      "1": {
+        "1": 10416
+      }
+    },
+    "id": 10001,
+    "bg": "bg_28",
+    "nStartTime": 0,
+    "sName": "奇境商店",
+    "icon": "btn_07_01",
+    "nEndTime": 0,
+    "showType": 1,
+    "sort": 37
+  },
+  {
+    "commodityType": 1,
+    "key": 2004,
+    "isHide": 1,
+    "nameID": 18201,
+    "tabPage": {},
+    "goldInfo": {
+      "1": {
+        "1": 10409
+      }
+    },
+    "id": 2004,
+    "bg": "bg_28",
+    "nStartTime": 0,
+    "sName": "特别馈赠（特殊）",
+    "icon": "btn_05_01",
+    "nEndTime": 0,
+    "showType": 1,
+    "sort": 20
+  },
+  {
+    "commodityType": 1,
+    "key": 2005,
+    "isHide": 1,
+    "nameID": 61038,
+    "tabPage": {},
+    "goldInfo": {
+      "1": {
+        "1": 10403
+      }
+    },
+    "id": 2005,
+    "bg": "bg_28",
+    "nStartTime": 0,
+    "sName": "回归商店",
+    "icon": "btn_07_01",
+    "nEndTime": 0,
+    "showType": 1,
+    "sort": 25
+  },
+  {
+    "commodityType": 1,
+    "key": 2006,
+    "isHide": 1,
+    "nameID": 61039,
+    "tabPage": {},
+    "goldInfo": {
+      "1": {
+        "1": 10404
+      }
+    },
+    "id": 2006,
+    "bg": "bg_28",
+    "nStartTime": 0,
+    "sName": "活跃商店",
+    "icon": "btn_07_01",
+    "nEndTime": 0,
+    "showType": 1,
+    "sort": 26
+  },
+  {
+    "commodityType": 1,
+    "key": 909,
+    "isHide": 1,
+    "nameID": 51004,
+    "tabPage": {},
+    "goldInfo": {
+      "1": {
+        "1": 10035
+      }
+    },
+    "id": 909,
+    "bg": "bg_28",
+    "nStartTime": 0,
+    "sName": "奇珍馈赠",
+    "icon": "btn_07_01",
+    "nEndTime": 0,
+    "showType": 1,
+    "sort": 16
+  },
+  {
+    "commodityType": 1,
+    "key": 2002,
+    "isHide": 1,
+    "nameID": 61038,
+    "tabPage": {},
+    "goldInfo": {
+      "1": {
+        "1": 10403
+      }
+    },
+    "id": 2002,
+    "bg": "bg_28",
+    "nStartTime": 0,
+    "sName": "回归商店",
+    "icon": "btn_07_01",
+    "nEndTime": 0,
+    "showType": 1,
+    "sort": 16
+  },
+  {
+    "commodityType": 1,
+    "key": 3001,
+    "isHide": 1,
+    "nameID": 60700,
+    "tabPage": {},
+    "goldInfo": {
+      "1": {
+        "1": 10002,
+        "2": 140001
+      }
+    },
+    "id": 3001,
+    "bg": "bg_28",
+    "nStartTime": 0,
+    "sName": "复归礼包",
+    "icon": "btn_07_01",
+    "nEndTime": 0,
+    "showType": 2,
+    "sort": 16
+  },
+  {
+    "commodityType": 1,
+    "key": 908,
+    "isHide": 1,
+    "nameID": 51004,
+    "tabPage": {},
+    "goldInfo": {
+      "1": {
+        "1": 10102
+      }
+    },
+    "id": 908,
+    "bg": "bg_28",
+    "nStartTime": 0,
+    "sName": "宠物商店",
+    "icon": "btn_07_01",
+    "nEndTime": 0,
+    "showType": 1,
+    "sort": 15
+  },
+  {
+    "commodityType": 1,
+    "key": 907,
+    "isHide": 1,
+    "nameID": 51004,
+    "tabPage": {},
+    "goldInfo": {
+      "1": {
+        "1": 10102
+      }
+    },
+    "id": 907,
+    "bg": "bg_28",
+    "nStartTime": 0,
+    "sName": "星宫商店",
+    "icon": "btn_07_01",
+    "nEndTime": 0,
+    "showType": 1,
+    "sort": 14
+  },
+  {
+    "commodityType": 1,
+    "key": 2003,
+    "isHide": 1,
+    "nameID": 61039,
+    "tabPage": {},
+    "goldInfo": {
+      "1": {
+        "1": 10404
+      }
+    },
+    "id": 2003,
+    "bg": "bg_28",
+    "nStartTime": 0,
+    "sName": "活跃商店",
+    "icon": "btn_07_01",
+    "nEndTime": 0,
+    "showType": 1,
+    "sort": 17
+  },
+  {
+    "commodityType": 1,
+    "key": 4002,
+    "isHide": 1,
+    "nameID": 65023,
+    "tabPage": {},
+    "goldInfo": {
+      "1": {
+        "1": 10407
+      }
+    },
+    "id": 4002,
+    "bg": "bg_28",
+    "nStartTime": 0,
+    "sName": "角斗兑换（第三赛季）",
+    "icon": "btn_07_01",
+    "nEndTime": 0,
+    "showType": 1,
+    "sort": 18
+  },
+  {
+    "commodityType": 1,
+    "tabPage": {},
+    "key": 5001,
+    "isHide": 1,
+    "nameID": 51004,
+    "openTime": "2025-07-01 18:00:00",
+    "showType": 1,
+    "goldInfo": {
+      "1": {
+        "1": 10108
+      }
+    },
+    "id": 5001,
+    "bg": "bg_28",
+    "sName": "主线限时商店",
+    "nStartTime": 1751364000,
+    "icon": "btn_07_01",
+    "closeTime": "2025-09-07 03:00:00",
+    "nEndTime": 1757185200,
+    "sort": 28
+  },
+  {
+    "commodityType": 1,
+    "key": 901,
+    "isHide": 1,
+    "nameID": 37022,
+    "tabPage": {},
+    "goldInfo": {
+      "1": {
+        "1": 10015
+      }
+    },
+    "id": 901,
+    "bg": "bg_28",
+    "nStartTime": 0,
+    "sName": "剧情商店",
+    "icon": "btn_07_01",
+    "nEndTime": 0,
+    "showType": 1,
+    "sort": 8
+  }
+]

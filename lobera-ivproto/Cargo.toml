@@ -1,0 +1,12 @@
+[package]
+name = "lobera-ivproto"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+byteorder.workspace = true
+lobera-ivproto-derive.workspace = true
+
+[features]
+default = ["derive"]
+derive = []

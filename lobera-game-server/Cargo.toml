@@ -1,0 +1,22 @@
+[package]
+name = "lobera-game-server"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+bytes.workspace = true
+anyhow.workspace = true
+log.workspace = true
+env_logger.workspace = true
+serde.workspace = true
+serde_json.workspace = true
+toml.workspace = true
+tokio.workspace = true
+inventory.workspace = true
+lazy_static.workspace = true
+lobera-commons.workspace = true
+lobera-data.workspace = true
+lobera-ivproto.workspace = true
+lobera-game-msg.workspace = true
+
+futures-util = "0.3"

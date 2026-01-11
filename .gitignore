@@ -1,0 +1,4 @@
+**/target
+/data/static
+/lobera-game-server/gameserver.toml
+/lobera-sdk-server/sdkserver.toml

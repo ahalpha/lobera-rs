@@ -1,0 +1,10 @@
+[package]
+name = "lobera-game-msg"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+byteorder.workspace = true
+inventory.workspace = true
+lobera-ivproto.workspace = true
+lobera-game-msg-derive.workspace = true
