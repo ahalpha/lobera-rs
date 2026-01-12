@@ -38,7 +38,7 @@ async fn main() -> anyhow::Result<()> {
 
     let addr = format!("{}:{}", base::config::CONFIG.host, base::config::CONFIG.port);
     let listener = tokio::net::TcpListener::bind(&addr).await?;
-    log::info!("GameServer open on {}", addr);
+    log::info!("GameServer listening on {}", addr);
 
     loop {
         let (socket, addr) = listener.accept().await?;
