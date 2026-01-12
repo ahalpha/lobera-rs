@@ -1,6 +1,6 @@
 # 代理教程
 
-> *Thanks [Magisk Tutorial for KaniPS]()*
+> *Thanks [Magisk Tutorial for KaniPS](https://git.fufufu.moe/KaniPS/Atrahasis/src/branch/main/Docs/Magisk-Tutorial.md)*
 
 > [!CAUTION]  
 > **本教程适用于 Android 10 或更高版本，因为在较新版本的 Android 上安装根证书变得越来越困难。本教程同样向下兼容 Android 10 或以下版本。**

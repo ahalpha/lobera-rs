@@ -1,6 +1,6 @@
 # Proxy Tutorial
 
-> *Thanks [Magisk Tutorial for KaniPS]()*
+> *Thanks [Magisk Tutorial for KaniPS](https://git.fufufu.moe/KaniPS/Atrahasis/src/branch/main/Docs/Magisk-Tutorial.md)*
 
 > [!CAUTION]  
 > **This tutorial is used for Android 10 or above since it is getting harder to install root certificates on later versions of Android. This tutorial is also backward compatible with Android 10 or below.**

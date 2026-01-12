@@ -10,4 +10,4 @@
 
 `03` Run `./lobera-sdk-server.exe` and `./lobera-game-server.exe`.
 
-`04` Now, you can [configure a proxy](/docs/proxy_tutorial_en.md) to allow the client to connect to the server.
+`04` Now, you can [configure a proxy](/docs/proxy_tutorial.md) to allow the client to connect to the server.

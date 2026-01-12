@@ -10,4 +10,4 @@
 
 `03` 运行 `./lobera-sdk-server.exe` 和 `./lobera-game-server.exe`。
 
-`04` 现在，您可以 [配置代理](/docs/proxy_tutorial_en.md) 以允许客户端连接到服务器。
+`04` 现在，您可以 [配置代理](/docs/proxy_tutorial_cn.md) 以允许客户端连接到服务器。
